@@ -1,17 +1,17 @@
 <?php
 
 /**
- * Файл из репозитория MikBill-VPBX-Assistant-API
- * @link https://github.com/itpanda-llc/mikbill-vpbx-assistant-api
+ * Файл из репозитория MikBill-PBX-Assistant-API
+ * @link https://github.com/itpanda-llc/mikbill-pbx-assistant-api
  */
 
-namespace Panda\MikBill\Vpbx\AssistantApi\Dictionary\Ru;
+namespace Panda\MikBill\Pbx\AssistantApi\Dictionary\Ru;
 
-use Panda\MikBill\Vpbx\AssistantApi\Dictionary;
+use Panda\MikBill\Pbx\AssistantApi\Dictionary;
 
 /**
  * Class Freeze
- * @package Panda\MikBill\Vpbx\AssistantApi\Dictionary\Ru
+ * @package Panda\MikBill\Pbx\AssistantApi\Dictionary\Ru
  * Сообщения о заморозке (Словарный запас)
  */
 class Freeze extends Dictionary\Param

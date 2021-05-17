@@ -1,17 +1,17 @@
 <?php
 
 /**
- * Файл из репозитория MikBill-VPBX-Assistant-API
- * @link https://github.com/itpanda-llc/mikbill-vpbx-assistant-api
+ * Файл из репозитория MikBill-PBX-Assistant-API
+ * @link https://github.com/itpanda-llc/mikbill-pbx-assistant-api
  */
 
 declare(strict_types=1);
 
-namespace Panda\MikBill\Vpbx\AssistantApi;
+namespace Panda\MikBill\Pbx\AssistantApi;
 
 /**
  * Class Statement
- * @package Panda\MikBill\Vpbx\AssistantApi
+ * @package Panda\MikBill\Pbx\AssistantApi
  * Операции с запросами к БД
  */
 class Statement

@@ -1,17 +1,17 @@
 <?php
 
 /**
- * Файл из репозитория MikBill-VPBX-Assistant-API
- * @link https://github.com/itpanda-llc/mikbill-vpbx-assistant-api
+ * Файл из репозитория MikBill-PBX-Assistant-API
+ * @link https://github.com/itpanda-llc/mikbill-pbx-assistant-api
  */
 
-namespace Panda\MikBill\Vpbx\AssistantApi\Dictionary\Ru;
+namespace Panda\MikBill\Pbx\AssistantApi\Dictionary\Ru;
 
-use Panda\MikBill\Vpbx\AssistantApi\Dictionary;
+use Panda\MikBill\Pbx\AssistantApi\Dictionary;
 
 /**
  * Class Callback
- * @package Panda\MikBill\Vpbx\AssistantApi\Dictionary\Ru
+ * @package Panda\MikBill\Pbx\AssistantApi\Dictionary\Ru
  * Сообщения об обратном вызове (Словарный запас)
  */
 class Callback extends Dictionary\Param

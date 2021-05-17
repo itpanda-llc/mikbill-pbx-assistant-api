@@ -1,10 +1,10 @@
-# MikBill-VPBX-Assistant-API
+# MikBill-PBX-Assistant-API
 
-API для интеграции биллинговой системы ["MikBill"](https://mikbill.pro) с сервисами IP-телефонии
+API для интеграции биллинговой системы ["MikBill"](https://mikbill.pro) с PBX-системами
 
-[![Packagist Downloads](https://img.shields.io/packagist/dt/itpanda-llc/mikbill-vpbx-assistant-api)](https://packagist.org/packages/itpanda-llc/mikbill-vpbx-assistant-api/stats)
-![Packagist License](https://img.shields.io/packagist/l/itpanda-llc/mikbill-vpbx-assistant-api)
-![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/itpanda-llc/mikbill-vpbx-assistant-api)
+[![Packagist Downloads](https://img.shields.io/packagist/dt/itpanda-llc/mikbill-pbx-assistant-api)](https://packagist.org/packages/itpanda-llc/mikbill-pbx-assistant-api/stats)
+![Packagist License](https://img.shields.io/packagist/l/itpanda-llc/mikbill-pbx-assistant-api)
+![Packagist PHP Version Support](https://img.shields.io/packagist/php-v/itpanda-llc/mikbill-pbx-assistant-api)
 
 ## Ссылки
 
@@ -35,7 +35,7 @@ API для интеграции биллинговой системы ["MikBill"
 ## Установка
 
 ```shell script
-composer require itpanda-llc/mikbill-vpbx-assistant-api
+composer require itpanda-llc/mikbill-pbx-assistant-api
 ```
 
 ## Конфигурация
@@ -52,7 +52,7 @@ yum install -e lame
 * Словарного запаса в ["Dictionary"](src/Dictionary)
 * Параметров аутентификации в ["Auth.php"](src/Auth.php)
 * Параметров сервиса ["Yandex Cloud"](https://cloud.yandex.ru) в ["Cloud.php"](src/Cloud.php)
-* Путей к [конфигурационному файлу](https://wiki.mikbill.pro/billing/config_file) и интерфейсам в ["index.php"](examples/www/mikbill/admin/api/vpbx/assistant/index.php), предварительно размещенного в каталоге веб-сервера
+* Путей к [конфигурационному файлу](https://wiki.mikbill.pro/billing/config_file) и интерфейсам в ["index.php"](examples/www/mikbill/admin/api/pbx/assistant/index.php), предварительно размещенного в каталоге веб-сервера
 
 ## Примеры запросов к интерфейсу
 

@@ -1,7 +1,7 @@
 {
-    "name": "itpanda-llc/mikbill-vpbx-assistant-api",
-    "description": "API for integration of the MikBill billing system with IP telephony services",
-    "homepage": "https://github.com/itpanda-llc/mikbill-vpbx-assistant-api",
+    "name": "itpanda-llc/mikbill-pbx-assistant-api",
+    "description": "API for integration of the MikBill billing system with PBX systems",
+    "homepage": "https://github.com/itpanda-llc/mikbill-pbx-assistant-api",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,7 @@
     ],
     "autoload": {
         "psr-4": {
-            "Panda\\MikBill\\Vpbx\\AssistantApi\\": "src/"
+            "Panda\\MikBill\\Pbx\\AssistantApi\\": "src/"
         }
     },
     "require": {

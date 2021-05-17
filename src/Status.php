@@ -1,15 +1,15 @@
 <?php
 
 /**
- * Файл из репозитория MikBill-VPBX-Assistant-API
- * @link https://github.com/itpanda-llc/mikbill-vpbx-assistant-api
+ * Файл из репозитория MikBill-PBX-Assistant-API
+ * @link https://github.com/itpanda-llc/mikbill-pbx-assistant-api
  */
 
-namespace Panda\MikBill\Vpbx\AssistantApi;
+namespace Panda\MikBill\Pbx\AssistantApi;
 
 /**
  * Class Status
- * @package Panda\MikBill\Vpbx\AssistantApi
+ * @package Panda\MikBill\Pbx\AssistantApi
  * Заголовок ответа (HTTP-статус)
  */
 class Status
